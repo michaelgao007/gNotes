@@ -12,6 +12,7 @@ You can turn off this feature to get a quicker startup with -A
 
 Database changed
 mysql> SHOW TABLES;
+
 +-------------------+
 | Tables_in_notesdb |
 +-------------------+
@@ -20,6 +21,7 @@ mysql> SHOW TABLES;
 1 row in set (0.00 sec)
 
 mysql> DESCRIBE NotesSearch;
+
 +-------+---------------+------+-----+---------+-------+
 | Field | Type          | Null | Key | Default | Extra |
 +-------+---------------+------+-----+---------+-------+
